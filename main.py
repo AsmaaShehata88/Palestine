@@ -18,6 +18,6 @@ The_capital_of_palestine = "AL Qudsssss"
 print(The_capital_of_palestine.isupper())
 
 mybelieve = "Free Palestine"
-def mybelieve():
-    print("free")
-    input()
+x = mybelieve.upper()
+print(x)
+print("What do you wish for: " + x)
